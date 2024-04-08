@@ -25,20 +25,16 @@
 <h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
 
 <p align="center">
-    👋 Hey there! I'm Mujeeb Ahmad, a web developer passionate about creating engaging web experiences.
-    <br/><br/>
-    ✌️ <strong>Enjoy Programming, watching Anime and reading Manhwa</strong> <br/>
-    I love collaborating with fellow developers, exploring new technologies, and sharing insights.
-    <br/><br/>
-    ❤️ <strong>Love Coding and Learning</strong> <br/>
-    I'm driven by the thrill of coding, constantly experimenting with frameworks and pushing boundaries.
-    <br/><br/>
-    📧 <strong>Reach Me Anytime</strong> <br/>
-    Have a question or suggestion? Drop me a line at abdulmujeebahmad03@gmail.com
-    <br/><br/>
-    💬 <strong>Ask Me About</strong> <br/>
-    Troubleshooting, brainstorming ideas, or anything related to web development.
-    <br/><br/>
+### Hi there 👋
+
+I'm a full-stack developer with a knack for creating seamless user experiences on the front end with **React** and **Next.js**, and robust backend solutions with **Django**. 🌐
+
+🚚 Currently, I'm pouring my skills into developing the backend of a logistics mobile app - a project that's close to my heart and challenges me daily.
+
+💡 I believe in the limitless possibilities of code and am always exploring new horizons in tech. When I'm not coding, you might find me diving into the vibrant worlds of anime and manhwa.
+
+Let's connect and build something amazing together!
+
 </p>
 
 <div align="center">
