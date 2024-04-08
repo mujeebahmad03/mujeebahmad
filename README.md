@@ -25,7 +25,7 @@
 <h2 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> <b>About me</b></h2>
 
 <p align="center">
-### Hi there 👋
+<b>Hi there 👋</b>
 
 I'm a full-stack developer with a knack for creating seamless user experiences on the front end with **React** and **Next.js**, and robust backend solutions with **Django**. 🌐
 
