@@ -52,7 +52,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebahmad03&theme=radical&border=7F3FBF&background=0D1117" alt="Mujeeb Ahmad's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujeebahmad03&theme=dark&border=7F3FBF&background=0D1117" alt="Mujeeb Ahmad's GitHub Streak" />
 </p>
 
 <p align="center">
@@ -61,10 +61,10 @@
 
 <p align="center">
     <a href="https://github.com/mujeebahmad03">
-        <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mujeebahmad03&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+        <img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mujeebahmad03&show_icons=true&count_private=true&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
     <a href="https://github.com/mujeebahmad03">
-        <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mujeebahmad03&langs_count=20&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+        <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mujeebahmad03&langs_count=20&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
