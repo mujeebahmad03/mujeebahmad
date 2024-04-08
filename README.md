@@ -1,4 +1,4 @@
-![Coding Gif](https://github.com/mujeebahmad03/mujeebahmad03/blob/main/Life.js.gif)
+![Coding Gif](https://github.com/mujeebahmad03/mujeebahmad/blob/main/Life.js.gif)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++;Self-taught+Web+Developer,;Avid+Learner/Researcher,;Love+to+learn+new+stuffs..<3,;Anime+and+Manhwa+lover..<3"></a>
@@ -45,7 +45,7 @@
         
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![HTML, CSS, TailwindCSS, React.js, Redux, Next.js, JavaScript, Python, Django, Postgres, Git, Docker, GCP](https://skillicons.dev/icons?i=html,css,tailwind,react,redux,next,js,py,django,postgres,git,docker,gcp)](https://skillicons.dev)
 
 </div>
 
